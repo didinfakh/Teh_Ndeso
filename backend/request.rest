@@ -1,0 +1,28 @@
+GET http://localhost:4000/menu
+
+###
+GET http://localhost:4000/menu/2
+
+###
+POST http://localhost:4000/menu
+Content-Type: application/json
+
+{
+    "nama" : "lychee tea",
+    "harga" : "8000",
+    "gambar" : "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE20221115130352033513/detail/menueditor_item_d16cb7807d944f7cb1ed31c5fc5a63c6_1668651143475302029.webp"
+}
+
+###
+PATCH  http://localhost:4000/menu/1
+Content-Type: application/json
+
+{
+    "nama" : "lychee tea",
+    "harga" : "3000",
+    "gambar" : "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE20221115130352033513/detail/menueditor_item_d16cb7807d944f7cb1ed31c5fc5a63c6_1668651143475302029.webp"
+}
+
+###
+DELETE http://localhost:4000/menu/1
+

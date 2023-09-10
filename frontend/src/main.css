@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'alltime font';
+  src: url('./fonts/Yellowtail-Regular.ttf');
+}
+.containerHeight {
+  height: 60vh;
+}
+.containerBottom {
+  height: 40vh;
+}
+.bigFont {
+  font-family: 'alltime font';
+  font-size: 260px;
+  padding: 0px;
+}
+#daun1 {
+  width: 100px;
+  position: relative;
+  translate: 980px -600px;
+}
+#daun2 {
+  width: 70px;
+  position: relative;
+  translate: 700px -290px;
+}
+#daun3 {
+  width: 100px;
+  position: relative;
+  translate: -50px -250px;
+}
+#containerOtletKiri {
+  background-image: url('./image/gambar_outlet1.jpeg');
+}
+#containerOtletKanan {
+  height: auto;
+}
+#Title_outlet {
+  font-family: 'alltime font';
+  font-family: 'Quicksand', sans-serif;
+}
+
+.card_outlet {
+  height: 100px;
+  background-color: rgb(61, 61, 61);
+}
+.gambar_kecil_outlet {
+  height: 100px;
+  padding: 1px;
+}
+#cardModal {
+  height: 100vh;
+  background-color: rgba(212, 212, 212, 0.342);
+  position: absolute;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+  .containerHeight {
+    height: 40vh;
+  }
+  .containerBottom {
+    height: 60vh;
+  }
+  .bigFont {
+    font-family: 'alltime font';
+    font-size: 90px;
+    padding: 0px;
+  }
+  #gambar1 {
+    translate: 5px 0px;
+  }
+  .relative {
+    translate: 0px -30px;
+  }
+  #daun1 {
+    width: 30px;
+    translate: 40px -200px;
+  }
+  #daun2 {
+    translate: 350px -350px;
+  }
+  #daun3 {
+    width: 50px;
+    translate: 180px -240px;
+    z-index: -1;
+  }
+  #containerOtletKiri {
+    display: none;
+  }
+  #containerOtletKanan {
+    background-image: url('./image/gambar_outlet1.jpeg');
+  }
+}

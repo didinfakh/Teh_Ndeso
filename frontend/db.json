@@ -1,0 +1,58 @@
+{
+  "product": [
+    {
+      "id": 2578,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613073860352/detail/menueditor_item_3575e34aecf94ae1a935b7b504145b62_1679836035302231717.webp",
+      "nama": "Red Velvet",
+      "harga": 1000
+    },
+    {
+      "id": 2579,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613043853132/detail/menueditor_item_7355870d0714415eb388329ae73c8b08_1679835846433809532.webp",
+      "nama": "Matcha Ice",
+      "harga": 1000
+    },
+    {
+      "id": 2580,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613032690144/detail/menueditor_item_9bebdd871b24484abe97ea61a9288b28_1679835772683815276.webp",
+      "nama": "Coffe Caramel",
+      "harga": 1000
+    },
+    {
+      "id": 2581,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613065096307/detail/menueditor_item_52e77527b892412b8c2053605f87a9d8_1679835989106374023.webp",
+      "nama": "oreo",
+      "harga": 1000
+    },
+    {
+      "id": 2582,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613020995754/detail/menueditor_item_947c79c5f97543a4ae9e3fbceeaa5fd1_1679835707255844471.webp",
+      "nama": "Choco All Time",
+      "harga": 1000
+    },
+    {
+      "id": 2583,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613120330883/detail/menueditor_item_00459d28402f4a149ce301d306052e9c_1679836289802708072.webp",
+      "nama": "Jasmine Tea",
+      "harga": 1000
+    },
+    {
+      "id": 2584,
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613094331365/detail/menueditor_item_74b79f78b9584842acfa20fca5a81607_1679836151151873925.webp",
+      "nama": "Green Tea",
+      "harga": 1000
+    },
+    {
+      "nama": "tea jus lemon",
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613181700277/detail/menueditor_item_8488ba45413843a9997f4ea415a1518d_1679836675544007772.webp",
+      "harga": "1000",
+      "id": 2586
+    },
+    {
+      "nama": "Lemonade",
+      "gambar": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE2023032613172617842/detail/menueditor_item_5c14f953574941dd96ce36e2ae89a9bf_1679836628838464620.webp",
+      "harga": "10000",
+      "id": 2587
+    }
+  ]
+}
